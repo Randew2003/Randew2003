@@ -86,14 +86,17 @@ A database-driven application designed to manage records efficiently with proper
 
 ## 📊 GitHub Stats
 
-![Randew's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Randew2003&show_icons=true&theme=tokyonight)
+## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Randew2003&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=Randew2003&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Randew2003&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 ---
 
 ## 📫 Connect With Me
 
 - GitHub: [github.com/Randew2003](https://github.com/Randew2003)
-- LinkedIn: [Add your LinkedIn profile link here](https://www.linkedin.com/in/megha-weerathunga-4a931336b/)
+- LinkedIn: [LinkedIn profile link](https://www.linkedin.com/in/megha-weerathunga-4a931336b/)
 - Email: randewmegha83@gmail.com
