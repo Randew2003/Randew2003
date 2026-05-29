@@ -1,4 +1,4 @@
-# Hi, I'm Megha Weerathunga👋
+# Hi, I'm Megha weerathunga 👋
 
 I am a Software Engineering undergraduate with a strong interest in building scalable, user-focused, and efficient software solutions. I enjoy working across the full stack, from designing responsive user interfaces to developing secure backend APIs and managing databases.
 
@@ -84,13 +84,12 @@ A database-driven application designed to manage records efficiently with proper
 
 ---
 
-
-
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Randew2003&show_icons=true)
+![Randew's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Randew2003&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Randew2003&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Randew2003&layout=compact&theme=tokyonight)
+
 ---
 
 ## 📫 Connect With Me
