@@ -84,15 +84,13 @@ A database-driven application designed to manage records efficiently with proper
 
 ---
 
-## 📊 GitHub Stats
+
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Randew2003&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Randew2003&show_icons=true)
 
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Randew2003&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Randew2003&layout=compact)
 ---
 
 ## 📫 Connect With Me
