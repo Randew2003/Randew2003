@@ -1,4 +1,4 @@
-# Hi, I'm Randew 👋
+# Hi, I'm Megha Weerathunga👋
 
 I am a Software Engineering undergraduate with a strong interest in building scalable, user-focused, and efficient software solutions. I enjoy working across the full stack, from designing responsive user interfaces to developing secure backend APIs and managing databases.
 
