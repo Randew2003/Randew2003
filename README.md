@@ -34,12 +34,16 @@
 
 ## 👨‍💻 About Me
 
+<img align="right" alt="Coding Animation" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
 - 🎓 Software Engineering undergraduate at **SLIIT**
 - 💻 Interested in **Full-Stack Web & Mobile Development**
 - ⚙️ Building practical applications using modern frontend and backend technologies
 - 📱 Exploring both **web and mobile application development**
 - 🧠 Interested in scalable, maintainable and user-focused software solutions
 - 🌱 Continuously improving my software development and problem-solving skills
+
+<br clear="right"/>
 
 ---
 
@@ -98,6 +102,7 @@
 Full-stack e-commerce platform with dedicated workflows for customers, vendors and administrators.
 
 **Key Features**
+
 - Authentication & role-based access
 - Product search & pagination
 - Shopping cart & checkout
@@ -126,6 +131,7 @@ Full-stack e-commerce platform with dedicated workflows for customers, vendors a
 Full-stack mobile application for recipe discovery, pantry management and meal planning.
 
 **Key Features**
+
 - Recipe discovery
 - Smart pantry
 - Weekly meal planning
@@ -234,4 +240,4 @@ My main contribution was the **User Management module**, including registration,
 
 <!-- ===================== FOOTER ===================== -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer" />
